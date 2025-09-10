@@ -1,9 +1,9 @@
  pandas 
  streamlit 
- matplotlib.pyplot 
+ matplotlib
 seaborn 
 kagglehub
 zipfile
  os
  numpy 
-scikit-learn
+scikit-learn        
