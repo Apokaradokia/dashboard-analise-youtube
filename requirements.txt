@@ -3,7 +3,5 @@
  matplotlib
 seaborn 
 kagglehub
-zipfile
- os
  numpy 
 scikit-learn        
