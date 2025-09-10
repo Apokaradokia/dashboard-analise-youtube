@@ -1,9 +1,9 @@
-import pandas 
-import streamlit as st
-import matplotlib.pyplot as plt
-import seaborn as sns
-import kagglehub
-import zipfile
-import os
-import numpy as np 
-import scikit-learn
+ pandas 
+ streamlit 
+ matplotlib.pyplot 
+seaborn 
+kagglehub
+zipfile
+ os
+ numpy 
+scikit-learn
